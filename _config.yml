@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Pranav Sai Ganta"
+  pronouns         : "he/him"  
+  bio              : "Research Assistant - ML/AI/Generative AI"
+  location         : "Richmond, VA"
+  employer         : "Virginia Commonwealth University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gantap@vcu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
