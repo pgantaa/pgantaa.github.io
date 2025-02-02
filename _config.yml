@@ -11,8 +11,14 @@ locale                   : "en-US"
 title                    : "Pranav Sai Ganta"
 title_separator          : "-"
 name                     : &name "Pranav Sai Ganta"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "I'm a master’s student in Computer Science at VCU with a focus on machine learning, NLP, and data science, actively seeking a Summer 2025 internship. With hands-on experience designing and deploying ML models, optimizing data pipelines, and analyzing complex datasets, I am passionate about using AI to enhance user experiences.
+
+Key Skills:
+
+Experienced in recommender systems, reinforcement learning, GANs, and hybrid transformer models
+Strong communicator, skilled in collaborating with engineers, researchers, and product teams to create end-to-end solutions
+I’m eager to contribute to innovative teams where I can apply my expertise to solve real-world challenges. Let’s connect!"
+url                      : https://pgantaa.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
